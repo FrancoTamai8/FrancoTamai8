@@ -1,11 +1,11 @@
-Tamai Franco Nahuel
+### 💻 **Franco Tamai | Técnico Aviónico | Estudiante de Sistemas Embebidos**
 
-5TO 1era Avc Com C
+¡Hola! Soy Franco Tamai, tengo 19 años y soy Técnico Aviónico con formación complementaria en sistemas embebidos. Me apasiona la tecnología, la electrónica aplicada y el desarrollo de soluciones que conecten el mundo físico con el digital.
 
-hola, soy franco tamai me gusta la electronica, la programacion,los deportes y tocar instrumentos
+Durante mi formación trabajé con microcontroladores, sensores y plataformas como Arduino y Raspberry Pi, desarrollando proyectos que combinan hardware y software. Tengo experiencia en interpretación de planos electrónicos, programación en C y Python, y documentación técnica de sistemas.
 
-![WhatsApp Image 2022-04-29 at 8 19 05 AM](https://user-images.githubusercontent.com/81964901/165936775-f1f23f97-814c-4550-b1df-09060622b354.jpeg)
+Actualmente busco seguir aprendiendo y contribuir a proyectos que involucren electrónica, programación embebida y automatización. En este espacio comparto avances, prototipos y colaboraciones que reflejan mi evolución profesional.
 
-![WhatsApp Image 2022-04-29 at 8 33 05 AM](https://user-images.githubusercontent.com/81964901/165936881-75bd20d6-d0ad-49c9-be23-688e764be28f.jpeg)
+Siempre estoy abierto a ideas, proyectos o simplemente a compartir experiencias técnicas.
 
 
